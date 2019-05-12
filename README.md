@@ -23,13 +23,13 @@ La evaluación constará de 3 parciales teóricos, laboratorios semanales y un p
 
 ## Planificación
 
-| Evaluación | Temas | Ponderación |
-| ---------- | ----- | ----------- |
-| Parcial 1  | 1,2   | 20 %        |
-| Parcial 2  | 3,4   | 25 %        |
-| Parcial 1  | 5,6   | 25 %        |
-| Laboratorio|       | 20 %        |
-| Proyecto   |       | 10 %        |
+| Evaluación | Temas | Ponderación | Fecha  |
+| ---------- | ----- | ----------- | ------ |
+| Parcial 1  | 1,6   | 20 %        | 12 Jun |
+| Parcial 2  | 2,3   | 25 %        | 03 Jul |
+| Parcial 3  | 4,5   | 25 %        | CE     |
+| Laboratorio|       | 20 %        | |
+| Proyecto   |       | 10 %        | |
 
 ## Docencia
 
@@ -44,12 +44,48 @@ La evaluación constará de 3 parciales teóricos, laboratorios semanales y un p
 - [An Introduction to Statistical Learning](https://www.amazon.es/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=introduction+to+statistical+learning&qid=1557374998&s=foreign-books&sr=1-1)
 - [Big Data: Using Smart Big Data, Analytics and Metrics to Make Better Decisions and Improve Performance](https://www.amazon.es/Big-Data-Analytics-Decisions-Performance/dp/1118965833/ref=sr_1_13?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=big+data&qid=1557375139&s=foreign-books&sr=1-13)
 
-## Other Courses
+## Otros Cursos
 
 - [CS109 Data Science](http://cs109.github.io/2015/index.html)
 - [CS229 Machine Learning](https://see.stanford.edu/course/cs229)
 - [Introduction to Data Science](http://stellar.mit.edu/S/course/6/sp18/6.S077/)
+- [DSC101 Umass Dartmouth](https://www.coursicle.com/umassd/courses/DSC/)
 
+## Planificación
+
+30 Sesiones
+
+Clase 1: Introduccion y motivacion
+Clase 2: Cultura Data Driven
+Clase 3: Cultura Data Driven
+Clase 4: Data Scientist ToolBox: R, Python, Project Jupyter, Git.
+Clase 5: Big Data (Intro)
+Clase 6: Big Data
+Clase 7: Big Data
+Clase 8: Big Data
+Clase 9: Soluciones en la nube: AWS, Google Cloud
+Clase 10: Bases de Datos NoSQL
+Clase 11: Bases de Datos NoSQL
+Clase 12: APIs, preprocesamiento de datos
+Clase 13: Probabilidades y Estadistica para el analisis de datos
+Clase 14: Probabilidades y Estadistica para el analisis de datos 
+Clase 15: Análisis Exploratorio de datos
+Clase 16: 
+Clase 17: 
+Clase 18: 
+Clase 19: 
+Clase 20: 
+Vacaciones Colectivas
+Clase 21: Machine Learning 
+Clase 22: Machine Learning 
+Clase 23: Machine Learning
+Clase 24: Machine Learning
+Clase 25: Machine Learning
+Clase 26: Machine Learning
+Clase 27: Machine Learning
+Clase 28:RMarkdown, RShiny, Plotly
+Clase 29: Visualizacion de Datos
+Clase 30: 
 
 
 
