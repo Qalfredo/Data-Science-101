@@ -87,19 +87,6 @@ Para decidir acerca de la adquisición de estos conjutnos de datos, debemos tene
 * Documentación
 * Volumen
 * Granularidad
-* 
-
-
-
-
-
-
-
-
-
-
-
-
 
 #### Data Analytics
 
