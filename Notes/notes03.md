@@ -1,4 +1,4 @@
-# Data Science 101 - class 03
+﻿# Data Science 101 - class 03
 
 ### Analytics
 
@@ -178,7 +178,7 @@ imagen aqui
 Finalmente, en el ultimo ejemplo, vemos dos casi identicas versiones de una pagina, excepto que en la derecha todas las formularios son opcionales. Esa version condujo a un CTR 31% mayor.
 
 
-![imagen](C://users/quint/documents/data-science-101/notes/img2.png)
+![imagen](img2.png)
 
 En todos los ejemplos hubiera sido dificil predecir cual ganaria, mas dificil aun por cuanto, y tmbien predecir el iimpacto en otras metricas. Esta es la razon por la cual un byen diseno del experimento es necesario. Cambia la conversacion de " Yo creo que" a " Los datos muestra que". Asi finalmente vemos que este tipo de experimentos forman una parte invaluable de toda organizacion data driven.
 
