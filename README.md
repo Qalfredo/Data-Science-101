@@ -25,8 +25,8 @@ La evaluación constará de 3 parciales teóricos, laboratorios semanales y un p
 
 | Evaluación | Temas | Ponderación | Fecha  |
 | ---------- | ----- | ----------- | ------ |
-| Parcial 1  | 1,6   | 20 %        | 12 Jun |
-| Parcial 2  | 2,3   | 25 %        | 03 Jul |
+| Parcial 1  | 1,6   | 20 %        | 21 Jun |
+| Parcial 2  | 2,3   | 25 %        | 20 Jul |
 | Parcial 3  | 4,5   | 25 %        | CE     |
 | Laboratorio|       | 20 %        | |
 | Proyecto   |       | 10 %        | |
@@ -56,39 +56,64 @@ La evaluación constará de 3 parciales teóricos, laboratorios semanales y un p
 30 Sesiones
 
 Clase 1: Introduccion y motivacion
+
 Clase 2: Cultura Data Driven
+
 Clase 3: Cultura Data Driven
+
 Clase 4: Data Scientist ToolBox: R, Python, Project Jupyter, Git.
+
 Clase 5: Big Data (Intro)
+
 Clase 6: Big Data
+
 Clase 7: Big Data
+
 Clase 8: Big Data
+
 Clase 9: Soluciones en la nube: AWS, Google Cloud
+
 Clase 10: Bases de Datos NoSQL
+
 Clase 11: Bases de Datos NoSQL
+
 Clase 12: APIs, preprocesamiento de datos
+
 Clase 13: Probabilidades y Estadistica para el analisis de datos
+
 Clase 14: Probabilidades y Estadistica para el analisis de datos 
+
 Clase 15: Análisis Exploratorio de datos
+
 Clase 16: 
+
 Clase 17: 
+
 Clase 18: 
+
 Clase 19: 
+
 Clase 20: 
+
 Vacaciones Colectivas
+
 Clase 21: Machine Learning 
+
 Clase 22: Machine Learning 
+
 Clase 23: Machine Learning
+
 Clase 24: Machine Learning
+
 Clase 25: Machine Learning
+
 Clase 26: Machine Learning
+
 Clase 27: Machine Learning
+
 Clase 28:RMarkdown, RShiny, Plotly
+
 Clase 29: Visualizacion de Datos
+
 Clase 30: 
-
-
-
-
-
 

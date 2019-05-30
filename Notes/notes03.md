@@ -45,11 +45,11 @@ Este tipo de análisis es el mas simple que existe. Este describe y sumariza un 
 ##### Análisis Exploratorio
 
 El análisis descriptivo es muy importante como primer paso. Sin embargo, los resumenes numéricos solo llegan hasta ahí. Puede suceder por ejemplo que dos conjuntos de datos generen la misma descripción numérica pero tengan diferentes distribuciones. imagen aqui
-![imagen](C://users/quint/documents/data-science-101/notes/img3.png)
+![imagen](img3.png)
 
-![imagen](C://users/quint/documents/data-science-101/notes/img4.png)
+![imagen](img4.png)
 
-![imagen](C://users/quint/documents/data-science-101/notes/img5.png)
+![imagen](img5.png)
 
 
 ##### Análsis Inferencial
@@ -172,7 +172,7 @@ La respuesta es que la segunda version gana, con un CTR del doble que la orimera
 imagen aqui
 
 
-![imagen](C://users/quint/documents/data-science-101/notes/img1.png)
+![imagen](img1.png)
 
 
 Finalmente, en el ultimo ejemplo, vemos dos casi identicas versiones de una pagina, excepto que en la derecha todas las formularios son opcionales. Esa version condujo a un CTR 31% mayor.
