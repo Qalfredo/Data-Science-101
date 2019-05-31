@@ -46,7 +46,15 @@ La primera vez que inicias Swirl se pedirá instalar un curso. Se puede instalar
 
 ### 7. Asignaciones
 
-* Realizar los items 4-14 del curso "R Programming" y enviar al correo del profesor los resultados.
+* Realizar los items 2-14 del curso "R Programming" y enviar al correo del profesor los resultados.
+
+---
+
+Los videos correspondientes al lab pueden ser vistos desde los siguientes enlaces:
+
+* [Video1](https://youtu.be/JY1y6h9UDCU)
+* [Video2](https://youtu.be/6Db-BCh15wo)
+* [Video3](https://youtu.be/MH2g8qkd1r4)
 
 
 
