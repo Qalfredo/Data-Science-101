@@ -37,11 +37,11 @@ RStudio es un entorno de desarrollo integrado (IDE) para el lenguaje de programa
 
 The core tidyverse includes the packages that you're likely to use in everyday data analyses. As of tidyverse 1.2.0, the following packages are included in the core tidyverse:
 
-![imagen](C://users/quint/documents/data-science-101/notes/img6.png)
+![imagen](img6.png)
 
-![imagen](C://users/quint/documents/data-science-101/notes/img7.png)
+![imagen](img7.png)
 
-![imagen](C://users/quint/documents/data-science-101/notes/img8.png)
+![imagen](img8.png)
 
 ## Python
 
@@ -115,7 +115,7 @@ Python fue diseñado para ser leído con facilidad. Una de sus características 
 
 El contenido de los bloques de código (bucles, funciones, clases, etc.) es delimitado mediante espacios o tabuladores, conocidos como indentación, antes de cada línea de órdenes pertenecientes al bloque. Python se diferencia así de otros lenguajes de programación que mantienen como costumbre declarar los bloques mediante un conjunto de caracteres, normalmente entre llaves {}. Se pueden utilizar tanto espacios como tabuladores para indentar el código, pero se recomienda no mezclarlos.
 
-![imagen](C://users/quint/documents/data-science-101/notes/img9.png)
+![imagen](img9.png)
 
 ## R vs Python
 
@@ -160,29 +160,29 @@ En las estapas iniciales de Python los paquetes para analisis de datos fueron un
 
 ### Graficos y Visualizacion
 
-![imagen](C://users/quint/documents/data-science-101/notes/img10.png)
+![imagen](img10.png)
 
-![imagen](C://users/quint/documents/data-science-101/notes/img11.png)
+![imagen](img11.png)
 
 ### Deep Learning Support
 
-![imagen](C://users/quint/documents/data-science-101/notes/img12.png)
+![imagen](img12.png)
 
 ### Repositorios y librerias
 
-![imagen](C://users/quint/documents/data-science-101/notes/img13.png)
+![imagen](img13.png)
 
 ### Populridad
 
-![imagen](C://users/quint/documents/data-science-101/notes/img14.png)
+![imagen](img14.png)
 
 ### Empleo
 
-![imagen](C://users/quint/documents/data-science-101/notes/img15.png)
+![imagen](img15.png)
 
 ### Comunidad
 
-![imagen](C://users/quint/documents/data-science-101/notes/img16.png)
+![imagen](img16.png)
 
 ## Project Jupyter
 
