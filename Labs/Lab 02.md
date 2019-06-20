@@ -69,6 +69,9 @@ Para instalar tenemos 2 opciones, usar el administrador de paquetes de python **
 2. Elaborar un notebook de jupyter que contenga: la instalacion de cada una de las librerias dentro del ambiente jupyter, la importación de cada una de ellas y por ultimo una breve documentación de una función de cada libreria.
 3. Enviar al correo el archivo .ipynb con el nombre segun el formato nombredelestudiante.ipynb.
 
+### Videos
+[Parte 1](https://youtu.be/5YfknovhYJ8)
+[Parte 2](https://youtu.be/qdpMPJ96fro)
 
 
 
