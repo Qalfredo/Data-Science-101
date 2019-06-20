@@ -53,6 +53,7 @@ Para comenzar a rastrear un archivo debes usar el comando `git add`.
 
 Para confirmar los cambios usamos el comando `git commit`.
 
+Para subir los cambios a un repositorio remoto usamos el comando `git push [nombre remoto] [nombre rama]`.
 
 ## Project Jupyter
 
