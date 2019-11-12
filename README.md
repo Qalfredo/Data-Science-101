@@ -9,10 +9,10 @@ Este repositorio contiene todas las clases, laboratorios, planificación y otros
 ## Contenido
 
 - Tema 1: Introducción
-- Tema 2: Getting Data
+- Tema 2: Obtención y Preprocesamiento de datos
 - Tema 3: Análisis Exploratotio de Datos
-- Tema 4: Machine Learning
-- Tema 5: Comunicación de los resultados
+- Tema 4: Machine Learning e Inteligencia Artificial
+- Tema 5: Reportes y Comunicación de los resultados
 - Tema 6: Big Data y Cloud Computing
 
 Mas detalles [aquí](/tree/master/Content/content.pdf)
@@ -25,11 +25,11 @@ La evaluación constará de 3 parciales teóricos, laboratorios semanales y un p
 
 | Evaluación | Temas | Ponderación | Fecha  |
 | ---------- | ----- | ----------- | ------ |
-| Parcial 1  | 1,6   | 20 %        | 21 Jun |
-| Parcial 2  | 2,3   | 25 %        | 20 Jul |
-| Parcial 3  | 4,5   | 25 %        | CE     |
-| Laboratorio|       | 20 %        | |
-| Proyecto   |       | 10 %        | |
+| Parcial 1  | 1,2   | 20 %        | 10 Dic |
+| Parcial 2  | 3,4   | 20 %        | 04 Feb |
+| Parcial 3  | 5,6   | 30 %        | CE     |
+| Laboratorio|       | 10 %        | |
+| Proyecto   |       | 20 %        | |
 
 ## Docencia
 
@@ -55,35 +55,37 @@ La evaluación constará de 3 parciales teóricos, laboratorios semanales y un p
 
 30 Sesiones
 
-Clase 1: Introduccion y motivacion
+Clase 1: Introduccion y motivacion (Tema 1)
 
-Clase 2: Cultura Data Driven
+Clase 2: Cultura Data Driven (Tema 1)
 
-Clase 3: Cultura Data Driven
+Clase 3: Cultura Data Driven (Tema 1)
 
-Clase 4: Data Scientist ToolBox: R, Python, Project Jupyter, Git.
+Clase 4: Cultura Data Driven (Tema 1)
 
-Clase 5: Big Data (Intro)
+Clase 5:  Bases de Datos (Tema 2)
 
-Clase 6: Big Data
+Clase 6:  Bases de Datos NoSQL (Tema 2)
 
-Clase 7: Big Data
+Clase 7: APIs (Tema 2)
 
-Clase 8: Big Data
+Clase 8: Preprocesamiento de Datos (Tema 2)
 
-Clase 9: Soluciones en la nube: AWS, Google Cloud
+Clase 9: Preprocesamiento de Datos (Tema 2)
 
-Clase 10: Bases de Datos NoSQL
+Clase 10: Parcial I
 
-Clase 11: Bases de Datos NoSQL
+Clase 11: 
 
-Clase 12: APIs, preprocesamiento de datos
+Clase 12: 
 
-Clase 13: Probabilidades y Estadistica para el analisis de datos
+Vacaciones Colectivas
 
-Clase 14: Probabilidades y Estadistica para el analisis de datos 
+Clase 13: 
 
-Clase 15: Análisis Exploratorio de datos
+Clase 14: 
+
+Clase 15: 
 
 Clase 16: 
 
@@ -95,25 +97,23 @@ Clase 19:
 
 Clase 20: 
 
-Vacaciones Colectivas
+Clase 21: 
 
-Clase 21: Machine Learning 
+Clase 22:  
 
-Clase 22: Machine Learning 
+Clase 23: 
 
-Clase 23: Machine Learning
+Clase 24: 
 
-Clase 24: Machine Learning
+Clase 25: 
 
-Clase 25: Machine Learning
+Clase 26: 
 
-Clase 26: Machine Learning
+Clase 27: 
 
-Clase 27: Machine Learning
+Clase 28:
 
-Clase 28:RMarkdown, RShiny, Plotly
-
-Clase 29: Visualizacion de Datos
+Clase 29: 
 
 Clase 30: 
 
