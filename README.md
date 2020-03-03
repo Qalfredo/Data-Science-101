@@ -25,9 +25,9 @@ La evaluación constará de 3 parciales teóricos, laboratorios semanales y un p
 
 | Evaluación | Temas | Ponderación | Fecha  |
 | ---------- | ----- | ----------- | ------ |
-| Parcial 1  | 1,2   | 20 %        | 10 Dic |
-| Parcial 2  | 3,4   | 20 %        | 04 Feb |
-| Parcial 3  | 5,6   | 30 %        | CE     |
+| Parcial 1  | 1,2   | 25 %        | 10 Dic |
+| Parcial 2  | 3,4   | 25 %        | 05 Mar |
+| Parcial 3  | 5,6   | 20 %        | CE     |
 | Laboratorio|       | 10 %        | |
 | Proyecto   |       | 20 %        | |
 
