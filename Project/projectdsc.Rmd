@@ -1,0 +1,39 @@
+---
+title: "DSC101"
+subtitle: "Proyecto Final"
+author: 
+date: "15/01/2020"
+output: 
+  prettydoc::html_pretty:
+    theme: leonids
+---
+
+
+# Data Science 101 - Proyecto Final
+
+---
+
+## Fases del Proyecto
+
+- Fijar la pregunta generadora que define el problema.
+- Detemrinar el conjunto de datos necesario para responder lo anterior.
+- Identificar y corregir datos faltantes dentro del conjunto de datos, asi como detección de posibles outliers.
+- Aplicar las transformaciones necesarias para preparar el conjunto de datos como input de nuestro modelo.
+- Entrenar el modelo sobre conjunto de entrenamiento.
+- Hacer predicciones sobre data de prueba (si el caso lo requiere).
+- Evaluar el rendimiento del modelo.
+- Iterpretar resultados.
+
+## Requerimientos 
+
+- Dataset en formato .csv o .json
+- Script (R o Python) con las funciones y cálculos necesarios para llevar a cabo cada una de las fases.
+- Informe elaborado usando Rmarkdown o Jupyter Notebook.
+
+## Evaluación
+
+Cada una de las fases tendrá una ponderación tal que sumada sea igual al 80% de la nota, el 20% restante se reparte entre el informe presentado y la defensa del proyecto.
+
+## Fecha de entrega
+
+Los requerimientos deben ser enviados por correo hasta el lunes 23 de Marzo 2020 (fecha tentativa, sujeta a cambios).
